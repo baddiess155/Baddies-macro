@@ -1,2 +1,1 @@
-loadstring(game:HttpGet('https://api.rubis.app/v2/scrap/9JJejeLaq2EjHMEw/raw'))()
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/757d16458f62c34ff5c06568235236f5d93b1ff48179304922727fa84c753a5c/download"))()
+
